@@ -11,4 +11,5 @@ public class HomeController {
 		return "index";
 	}
 
+	public String abcd() { return "commit test"; }
 }
